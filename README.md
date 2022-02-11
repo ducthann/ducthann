@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @ducthann
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I'm [Duc Than Nguyen](https://github.com/ducthann)
+- 👀 I’m interested in in Programming Languages and Formal Verification
+- My primary tool is the Coq theorem prover to define programs and prove them correct
+- 💞️ I’m looking to collaborate on verifying correctness of concurrent programs
+- 📫 How to reach me at dnguye96 [[@t]] uic [(.)] edu
 
 <!---
 ducthann/ducthann is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
