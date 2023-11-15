@@ -1,5 +1,5 @@
 - 👋 Hi, I'm [Duc-Than Nguyen](https://ducthann.github.io) (Nguyễn Đức Thân in Vietnamese) 
-- 👀 I'm interested in Programming Languages, Theorem Proving, Separation Logic, Formal Verification
+- 👀 I'm interested in Programming Languages, Formal Methods, Concurrency, Theorem Proving, Separation Logic, Formal Verification
 - 🔬 My primary tool is the Coq theorem prover to define programs and prove them correct
 - 💞️ I'm looking to collaborate on verifying correctness of concurrent programs
 - 📫 Reach me at dnguye96 [[@t]] uic [(.)] edu
