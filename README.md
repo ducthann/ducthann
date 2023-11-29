@@ -3,4 +3,4 @@
 - 🔬 My primary tool is the Coq theorem prover to define programs and prove them correct
 - 💞️ I'm looking to collaborate on verifying correctness of concurrent programs
 - 📫 Reach me at dnguye96 [[@t]] uic [(.)] edu
-- 🌐 My website is https://ducthann.net
+- 🌐 My website is https://ducthan.net
