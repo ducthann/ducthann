@@ -1,6 +1,6 @@
-- 👋 Hi, I'm [Duc-Than Nguyen](https://ducthan.net) (Nguyễn Đức Thân in Vietnamese) 
-- 👀 I'm interested in Programming Languages, Formal Methods, Concurrency, Theorem Proving, Separation Logic, Formal Verification
-- 🔬 My primary tool is the Coq theorem prover to define programs and prove them correct
-- 💞️ I'm looking to collaborate on verifying correctness of concurrent programs
+- 👋 Hello! I'm Duc-Than Nguyen. I'm a Ph.D. candidate in Computer Science at UIC.
+- 👀 I enjoy writing proofs and programs, particularly when using the Coq proof assistant to write programs as proofs. 
+- 🔬 My main research interests lie in logics and semantics of programming languages, as well as formal verification. 
+- 💞️ I primarily utilize the Coq proof assistant, which defines programs, specifies their behavior, and proves that programs meet their specifications. 
 - 📫 Reach me at dnguye96 [[@t]] uic [(.)] edu
 - 🌐 My website is https://ducthan.net
