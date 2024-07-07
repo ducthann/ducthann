@@ -3,4 +3,4 @@
 - 🔬 My main research interests lie in logics and semantics of programming languages, as well as formal verification. 
 - 💞️ I primarily utilize the Coq proof assistant, which defines programs, specifies their behavior, and proves that programs meet their specifications. 
 - 📫 Reach me at dnguye96 [[@t]] uic [(.)] edu
-- 🌐 My website is https://ducthan.net
+- 🌐 My website is ducthan.net
