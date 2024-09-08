@@ -1,6 +1,6 @@
 - 👋 Hello! I'm Duc-Than Nguyen. I'm a Ph.D. candidate in Computer Science at UIC.
-- 👀 I enjoy writing proofs and programs, particularly when using the Coq proof assistant to write programs as proofs. 
-- 🔬 My main research interests lie in logics and semantics of programming languages, as well as formal verification. 
-- 💞️ I primarily utilize the Coq proof assistant, which defines programs, specifies their behavior, and proves that programs meet their specifications. 
+- 🔬 My main interest is pushing the boundaries of provably correct software. I focus on the semantics and correctness of programs, particularly concurrent programs.
+- 👀 I enjoy writing both proofs and programs, especially when using the Coq proof assistant to develop programs as proofs.
+- 💞️ Currently, I'm working on techniques to prove the correctness of concurrent C programs using the Verified Software Toolchain and Iris.
 - 📫 Reach me at dnguye96 [[@t]] uic [(.)] edu
 - 🌐 My website is https://ducthan.net
