@@ -6,6 +6,6 @@
 
 💞️ Currently, I'm working on techniques to prove the correctness of concurrent C programs using the Verified Software Toolchain and Iris.
 
-📫 Reach me at dnguye96 [[@t]] uic [(.)] edu
+📫 Reach me at nguyen [[@t]] ducthan [(.)] net
 
 🌐 My website is https://ducthan.net
