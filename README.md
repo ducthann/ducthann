@@ -1,4 +1,4 @@
-I am a Ph.D. candidate in Computer Science at UIC. My primary research interest lies in advancing the field of provably correct software. I focus on program semantics and correctness, with a particular emphasis on concurrent systems. Currently, I work on techniques for verifying the correctness of concurrent C programs using VST and Iris. My goal is to prove the correctness of realistic concurrent systems code and to develop simpler, more compositional approaches to reasoning about fine-grained concurrency.
+My primary research interest lies in advancing provably correct software, with a focus on developing and applying formal verification techniques for concurrent programs. In particular, I am developing techniques to verify the correctness of concurrent C programs using the Verified Software Toolchain and Iris, with the goal of proving the correctness of realistic systems-level concurrent code and developing simpler, more scalable approaches to reasoning about fine-grained concurrency.
 
-📫 Reach me at: nguyen@ducthan.net  
+📫 Reach me at: dnguye96@uic.edu
 🌐 Website: https://ducthan.net
